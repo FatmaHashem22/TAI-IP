@@ -1,0 +1,6 @@
+[submodule "TAI-IP_RecipeFinderApp"]
+	path = TAI-IP_RecipeFinderApp
+	url = https://github.com/FatmaHashem22/TAI-IP_RecipeFinderApp
+[submodule "TAI-IP_WeatherForecast"]
+	path = TAI-IP_WeatherForecast
+	url = https://github.com/FatmaHashem22/TAI-IP_WeatherForecast
